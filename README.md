@@ -2,9 +2,6 @@
 
 I'm a MOHAMMAD ALI and i am a passionate MERN stack developer with a keen interest in making todo list. My journey in software development has been driven by a love for building seamless user experiences and solving complex problems.
 🔧 Technologies and Skills:
-                                                                                                                                                ![354669-senior-software-engineer-job-description-job-description]  
-                                                                                                                   (https://github.com/MohammadAli007i/MohammadAli007i/assets/115215150/6928219a-6dec-4e0e-b753-c6ce54496a74)
-
 Front-end: React.js, HTML5, CSS3, JavaScript
 Back-end: Node.js, Express.js
 Database: MongoDB
