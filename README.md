@@ -1,12 +1,19 @@
 👋 Welcome to my GitHub profile!
 
-I'm a MOHAMMAD ALI and i am a passionate MERN stack developer with a keen interest in making todo list. My journey in software development has been driven by a love for building seamless user experiences and solving complex problems.
+I'm a MOHAMMAD ALI and i am a passionate MERN stack developer with a keen interest in making todo list. 
+My journey in software development has been driven by a love for building seamless user experiences and solving complex problems.
+
+
+
 🔧 Technologies and Skills:
 Front-end: React.js, HTML5, CSS3, JavaScript
 Back-end: Node.js, Express.js
 Database: MongoDB
 Version Control: Git, GitHub
 Deployment: Heroku
+
+
+
 🚀 What I do:
 I enjoy turning ideas into reality by leveraging the power of the MERN stack. From designing interactive user interfaces with React.js to building scalable APIs with Node.js and Express.js, I thrive in creating efficient and elegant solutions.
 
