@@ -1,37 +1,43 @@
-👋 Welcome to my GitHub profile!
+# Flutter Developer Portfolio
 
-I'm a MOHAMMAD ALI and i am a passionate MERN stack developer with a keen interest in making todo list. 
-My journey in software development has been driven by a love for building seamless user experiences and solving complex problems.
+👋 Welcome to my Flutter developer portfolio! This repository showcases my Flutter projects, skills, and contributions in the world of mobile app development.
 
+## About Me
 
+I'm [Mohammad Ali], a passionate Flutter developer with a love for creating interactive and visually appealing mobile applications. My journey in Flutter development has been driven by a desire to build seamless user experiences and solve real-world problems.
 
-🔧 Technologies and Skills:
-Front-end: React.js, HTML5, CSS3, JavaScript
-Back-end: Node.js, Express.js
-Database: MongoDB
-Version Control: Git, GitHub
-Deployment: Heroku
+### Skills
 
+- **Languages**: Dart
+- **Framework**: Flutter
+- **UI/UX**: Material Design, Cupertino Design
+- **Database**: SQLite, Firebase
+- **IDE**:Android Studio OS:Windows , Linux 
+- **Version Control**: Git, GitHub
 
+## Projects
 
-🚀 What I do:
-I enjoy turning ideas into reality by leveraging the power of the MERN stack. From designing interactive user interfaces with React.js to building scalable APIs with Node.js and Express.js, I thrive in creating efficient and elegant solutions.
+### Project 1: [Builty App]
 
-🌱 Continuous Learning:
-The world of technology is ever-evolving, and I believe in staying up-to-date with the latest trends and tools. I'm constantly expanding my skill set and exploring new technologies to enhance my development capabilities.
+In Process . 
 
-💼 Collaboration:
-I value teamwork and actively seek opportunities to collaborate with other developers, designers, and stakeholders. I believe that collective efforts lead to the best outcomes, and I'm always open to new perspectives and ideas.
+[Link to Project Repository or Live Demo]
 
-📫 Let's Connect:
-If you have any exciting projects or ideas you'd like to discuss, feel free to reach out. I'm always eager to collaborate and contribute to innovative endeavors. You can connect with me through the contact information on my profile.
+### Project 2: [Expenses App]
 
-🌟 Open Source Contributions:
-I'm a strong believer in the power of open source software. I actively contribute to various projects and enjoy sharing my knowledge with the developer community. Check out my repositories to explore some of my contributions.
+this is an expense app used to maintain our all the days expense in this one app, it is used to maintain the expense details, and technologies i have used is dart , etc.
 
-Thank you for visiting my profile, and I look forward to connecting with you! 😊
+[soon]
 
 
+## Connect with Me
 
+Let's connect! If you have exciting projects, collaboration ideas, or just want to chat about Flutter development, reach out to me:
 
+- **Email**: hhch1604@gmail.com
+- **LinkedIn**: [Mohammad Ali](https://www.linkedin.com/in/mohammad-ali-2ab7a4205/)
+## Support and Feedback
 
+If you find my projects interesting or have any suggestions for improvement, feel free to create an issue or submit a pull request. Your feedback is highly appreciated!
+
+Thank you for visiting my GitHub profile, and happy coding! 😊
