@@ -13,7 +13,7 @@ I'm [Mohammad Ali], a passionate Flutter developer with a love for creating inte
 - **UI/UX**: Material Design, Cupertino Design
 - **Database**: SQLite, Firebase
 - **IDE**:Android Studio
-- **OS:Windows , Linux 
+- OS:Windows , Linux 
 - **Version Control**: Git, GitHub
 
 ## Projects
