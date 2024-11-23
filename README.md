@@ -12,7 +12,8 @@ I'm [Mohammad Ali], a passionate Flutter developer with a love for creating inte
 - **Framework**: Flutter
 - **UI/UX**: Material Design, Cupertino Design
 - **Database**: SQLite, Firebase
-- **IDE**:Android Studio OS:Windows , Linux 
+- **IDE**:Android Studio
+- **OS:Windows , Linux 
 - **Version Control**: Git, GitHub
 
 ## Projects
